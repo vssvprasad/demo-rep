@@ -15,5 +15,5 @@ take proper care while mentioning the path of dataset.
 image dataset needs metadata of images to (that one can download from kaggle link given).
 
 
-### EDA of image dataset
+
 
