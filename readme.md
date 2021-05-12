@@ -1,18 +1,21 @@
-###  libraries needed
+## Readme
+* pip install numpy
+* pip install matplotlib
+run the code as it is
+* excute all the cells only inputs at last cell are -
+> image input(you should give as with out inverted comma) : C:\\Users\\Prasadrockz.kaasu\\OneDrive\\Desktop\\Asip\\image.jpg
 
-numpy, pandas,seborn,matplotlib, Opencv, tensorflow (2.4.1), keras
 
-### Covid_xray dataset
-[COVID-19 Radiography Database](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database)
+> minimum no.of cluster what you want
 
 
-Try to create a small dataset if needed since the acual dataset is of 21.1k images it will take time to run.
+> maximum no.of cluster what you want
 
-now that if you have notebook you are good to go.
 
-take proper care while mentioning the path of dataset.
+> degree of fuzzification -range(>2-5) #for better results you can take what ever you want 
 
-image dataset needs metadata of images to (that one can download from kaggle link given).
+
+> max number of iterations (we recommend >500)
 
 
 
